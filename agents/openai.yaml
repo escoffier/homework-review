@@ -1,0 +1,4 @@
+interface:
+  display_name: "作业批改与试卷详解"
+  short_description: "逐题批改并生成双版错题PDF，或为空白试卷生成全卷详细解答PDF并归档"
+  default_prompt: "使用 $homework-review 处理提交的作业或试卷：批改作业并生成双版错题PDF，或为空白试卷逐题生成详细答案PDF。"
